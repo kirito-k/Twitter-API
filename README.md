@@ -1,5 +1,5 @@
 # Twitter-API
-## Instructions:
+## Instructions
 This is a starters guide for someone who is about to start coding with Twitter's API.
 
 We will be using Tweepy, Twitter's API wrapper. API wrappers allows us to perform API calls without worrying about
