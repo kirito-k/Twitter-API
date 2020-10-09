@@ -10,7 +10,7 @@
 import json
 import tweepy
 
-# Open config file and set your Twitter App's unique keys with Reddit's API
+# Open config file and set your Twitter App's unique keys with Twitter's API
 with open("config.JSON") as f:
     data = json.load(f)
     auth = tweepy.OAuthHandler(data["API_KEY"], data["API_SECRETE_KEY"])
